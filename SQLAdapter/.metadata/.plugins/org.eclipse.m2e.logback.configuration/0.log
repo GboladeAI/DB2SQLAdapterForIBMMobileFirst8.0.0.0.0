@@ -1,0 +1,144 @@
+2018-04-12 21:00:48,263 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.sample:JavaScriptSQL:1.0-SNAPSHOT @ C:\Users\Administrator\SQLAdapter\JavaScriptSQL\pom.xml.
+2018-04-12 21:00:48,560 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JavaScriptSQL/src/main/java
+2018-04-12 21:00:48,560 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JavaScriptSQL/src/test/java
+2018-04-12 21:00:49,335 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2018-04-12 21:00:49,694 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-12 21:00:49,694 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\main\resources
+2018-04-12 21:00:49,694 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-12 21:00:49,694 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\test\resources
+2018-04-12 21:23:52,128 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.sample:JavaScriptSQL:1.0-SNAPSHOT @ C:\Users\Administrator\SQLAdapter\JavaScriptSQL\pom.xml.
+2018-04-12 21:23:52,347 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-12 21:23:52,347 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\main\resources
+2018-04-12 21:23:52,347 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-12 21:23:52,347 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\test\resources
+2018-04-12 21:23:53,517 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-12 21:23:53,517 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\main\resources
+2018-04-12 21:23:53,517 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-12 21:23:53,517 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\test\resources
+2018-04-12 21:42:03,971 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-12 21:42:03,971 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\main\resources
+2018-04-12 21:42:03,986 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-12 21:42:03,986 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\test\resources
+2018-04-12 22:03:03,682 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-12 22:03:03,682 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\main\resources
+2018-04-12 22:03:03,682 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-12 22:03:03,682 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\test\resources
+2018-04-12 22:03:19,157 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-12 22:03:19,157 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\main\resources
+2018-04-12 22:03:19,157 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-12 22:03:19,157 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\test\resources
+2018-04-12 22:05:43,323 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-12 22:05:43,323 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\main\resources
+2018-04-12 22:05:43,323 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-12 22:05:43,323 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\test\resources
+2018-04-12 22:07:51,973 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-12 22:07:51,973 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\main\resources
+2018-04-12 22:07:51,973 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-12 22:07:51,973 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\test\resources
+2018-04-12 23:05:27,940 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.sample:JavaScriptSQL:1.0-SNAPSHOT @ C:\Users\Administrator\SQLAdapter\JavaScriptSQL\pom.xml.
+2018-04-12 23:05:30,420 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/db2/db2-connector-java/1.0.0/db2-connector-java-1.0.0.pom
+2018-04-12 23:05:30,436 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for db2:db2-connector-java:jar:1.0.0 is missing, no dependency information available
+2018-04-12 23:05:31,200 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/db2/db2-connector-java/1.0.0/db2-connector-java-1.0.0.jar
+2018-04-12 23:05:31,621 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-12 23:05:31,621 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\main\resources
+2018-04-12 23:05:31,637 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-12 23:05:31,637 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\test\resources
+2018-04-12 23:05:40,560 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for db2:db2-connector-java:jar:1.0.0 is missing, no dependency information available
+2018-04-12 23:11:24,484 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-12 23:11:24,484 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\main\resources
+2018-04-12 23:11:24,484 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-12 23:11:24,484 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\test\resources
+2018-04-12 23:12:09,896 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-12 23:12:09,896 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\main\resources
+2018-04-12 23:12:09,896 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-12 23:12:09,896 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\test\resources
+2018-04-13 02:04:48,870 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-13 02:04:48,870 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\main\resources
+2018-04-13 02:04:48,870 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-13 02:04:48,870 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\test\resources
+2018-04-13 02:07:43,685 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.sample:JavaScriptSQL:1.0-SNAPSHOT @ C:\Users\Administrator\SQLAdapter\JavaScriptSQL\pom.xml.
+2018-04-13 02:07:43,700 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for db2:db2-connector-java:jar:1.0.0 is missing, no dependency information available
+2018-04-13 02:07:43,825 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-13 02:07:43,825 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\main\resources
+2018-04-13 02:07:43,825 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-13 02:07:43,825 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\test\resources
+2018-04-13 02:11:28,319 [main] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for db2:db2-connector-java:jar:1.0.0 is missing, no dependency information available
+2018-04-13 02:12:27,755 [Worker-43] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-04-13 02:12:28,020 [Worker-43] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.sample:JavaScriptSQL:1.0-SNAPSHOT @ C:\Users\Administrator\SQLAdapter\JavaScriptSQL\pom.xml.
+2018-04-13 02:12:28,036 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for db2:db2-connector-java:jar:1.0.0 is missing, no dependency information available
+2018-04-13 02:12:28,145 [Worker-43] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JavaScriptSQL/src/main/java
+2018-04-13 02:12:28,160 [Worker-43] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JavaScriptSQL/src/test/java
+2018-04-13 02:12:28,223 [Worker-43] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2018-04-13 02:12:28,363 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for db2:db2-connector-java:jar:1.0.0 is missing, no dependency information available
+2018-04-13 02:12:28,394 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-13 02:12:28,394 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\main\resources
+2018-04-13 02:12:28,394 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-13 02:12:28,394 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\test\resources
+2018-04-13 02:13:39,281 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-13 02:13:39,281 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\main\resources
+2018-04-13 02:13:39,281 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-13 02:13:39,281 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\test\resources
+2018-04-13 02:15:02,585 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-13 02:15:02,585 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\main\resources
+2018-04-13 02:15:02,600 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-13 02:15:02,600 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\test\resources
+2018-04-13 02:17:44,965 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-13 02:17:44,965 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\main\resources
+2018-04-13 02:17:44,965 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-13 02:17:44,965 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\test\resources
+2018-04-13 02:20:04,519 [Worker-54] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.sample:JavaScriptSQL:1.0-SNAPSHOT @ C:\Users\Administrator\SQLAdapter\JavaScriptSQL\pom.xml.
+2018-04-13 02:20:04,659 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-13 02:20:04,659 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\main\resources
+2018-04-13 02:20:04,659 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-13 02:20:04,659 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\test\resources
+2018-04-13 02:28:12,740 [Worker-55] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.sample:JavaScriptSQL:1.0-SNAPSHOT @ C:\Users\Administrator\SQLAdapter\JavaScriptSQL\pom.xml.
+2018-04-13 02:29:33,324 [Worker-62] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.sample:JavaScriptSQL:1.0-SNAPSHOT @ C:\Users\Administrator\SQLAdapter\JavaScriptSQL\pom.xml.
+2018-04-13 02:29:33,465 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-13 02:29:33,465 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\main\resources
+2018-04-13 02:29:33,465 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-13 02:29:33,465 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\test\resources
+2018-04-13 02:30:40,420 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-13 02:30:40,420 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\main\resources
+2018-04-13 02:30:40,420 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-13 02:30:40,420 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\test\resources
+2018-04-13 03:43:22,082 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-13 03:43:22,082 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\main\resources
+2018-04-13 03:43:22,082 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-13 03:43:22,082 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\test\resources
+2018-04-13 03:49:21,990 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-13 03:49:21,990 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\main\resources
+2018-04-13 03:49:21,990 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-13 03:49:21,990 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\test\resources
+2018-04-13 03:49:24,642 [Worker-62] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.sample:JavaScriptSQL:1.0-SNAPSHOT @ C:\Users\Administrator\SQLAdapter\JavaScriptSQL\pom.xml.
+2018-04-13 03:49:24,814 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-13 03:49:24,814 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\main\resources
+2018-04-13 03:49:24,814 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-13 03:49:24,814 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\test\resources
+2018-04-13 03:49:26,015 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-13 03:49:26,015 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\main\resources
+2018-04-13 03:49:26,015 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-13 03:49:26,015 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\test\resources
+2018-04-13 03:50:14,812 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-13 03:50:14,812 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\main\resources
+2018-04-13 03:50:14,812 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-13 03:50:14,812 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\test\resources
+2018-04-13 03:53:57,233 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-13 03:53:57,233 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\main\resources
+2018-04-13 03:53:57,233 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-13 03:53:57,233 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\test\resources
+2018-04-13 03:55:28,004 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-13 03:55:28,004 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\main\resources
+2018-04-13 03:55:28,004 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-13 03:55:28,004 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\test\resources
+2018-04-13 03:57:02,275 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-13 03:57:02,275 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\main\resources
+2018-04-13 03:57:02,275 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-13 03:57:02,275 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\test\resources
+2018-04-13 05:21:35,943 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-13 05:21:35,943 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\main\resources
+2018-04-13 05:21:35,943 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-13 05:21:35,943 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\test\resources
+2018-04-13 11:33:38,482 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-13 11:33:38,482 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\main\resources
+2018-04-13 11:33:38,482 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-13 11:33:38,482 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\SQLAdapter\JavaScriptSQL\src\test\resources
